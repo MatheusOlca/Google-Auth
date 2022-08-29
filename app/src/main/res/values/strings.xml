@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google SignIn</string>
+    <string name="logout_btn">Logout</string>
+</resources>
